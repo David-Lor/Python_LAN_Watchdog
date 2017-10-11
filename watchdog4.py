@@ -14,7 +14,7 @@ from time import sleep
 
 rng = 254
 lan_watchdog_freq = 2	#Tiempos en minutos
-dhcp_config_route = "/home/david/Nextcloud/Codigos/Python/MonitorRed/lan_watchdog_LEDE/dhcp"
+dhcp_config_route = "/etc/config/dhcp"
 bot_token = ""
 bot_auth = 000000
 
